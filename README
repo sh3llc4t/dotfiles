@@ -1,0 +1,7 @@
+This repo contains dot file configurations for many of my most commonly used
+applications 
+
+Z-shell configuration file:
+.zshrc
+Vim configuration file:
+.vimrc
