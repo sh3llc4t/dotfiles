@@ -1,0 +1,4 @@
+alias lc='ls --color'
+alias lca='ls --color -a'
+alias lcl='ls --color -l'
+alias lcal='ls --color -al'
