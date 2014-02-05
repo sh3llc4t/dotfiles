@@ -13,7 +13,7 @@ autoload -U ~/.zsh/functions/*(:t)
 source $HOME/.zsh/aliases
 # Load rbenv
 export PATH="$HOME/.rbenv/bin:$PATH"
-source <(rbenv init -)
+eval "$(rbenv init -)"
 #load git-prompt
 source /home/vagrant/.zsh/functions/git-prompt.sh
 # Prompt Setup
