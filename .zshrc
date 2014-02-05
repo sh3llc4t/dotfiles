@@ -7,6 +7,9 @@ fpath=(~/.zsh/functions $fpath)
 autoload -U ~/.zsh/functions/*(:t)
 # Load aliases
 source $HOME/.zsh/aliases
+# Load rbenv
+export PATH="$HOME/.rbenv/bin:$PATH"
+source <(rbenv init -)
 #load git-prompt
 source /home/vagrant/.zsh/functions/git-prompt.sh
 # Prompt Setup
