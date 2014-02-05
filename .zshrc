@@ -1,3 +1,7 @@
+# Track history.
+HISTFILE=$HOME/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
 # Get that delicious prompt and autocomplete goodness.
 autoload -U compinit promptinit
 compinit
