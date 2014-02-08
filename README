@@ -8,3 +8,5 @@ Vim configuration file:
 .vimrc
 Git configuration file:
 .gitconfig
+tmux configuration file:
+.tmux.conf
