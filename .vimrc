@@ -4,7 +4,7 @@ set number
 colorscheme elflord
 set tabstop=2 "Number of spaces Tab character is represented as
 set softtabstop=2 "Number of spaces <Tab> inserts
-set shiftwidth=0 "Use 'tabstop' for # of spaces to use for indents
+set shiftwidth=2 "Use 'tabstop' for # of spaces to use for indents
 set expandtab "No spaces
 "Intelligent syntax highlighting is a must
 syntax on
